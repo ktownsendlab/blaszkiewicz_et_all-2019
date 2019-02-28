@@ -2,7 +2,7 @@
 #############################################
 # Townsend Arborization Analysis PERL Script#
 #############################################
-# Authors: Ben Harrison, Ph.D. (University of New England), Samuel M. Borer (University of Maine)
+# Authors: Ben Harrison, Ph.D. (University of New England), Samuel M. Borer (University of Maine), Merilla Michael (University of New England)
 # The purpose of this script is to run the General Arborization Macro over all the tiles in your tiled z-stack
 
 # Keep this section, it helps maintain good PERL code
